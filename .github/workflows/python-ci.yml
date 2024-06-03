@@ -32,6 +32,6 @@ jobs:
     - name: Run tests
       run: make
 
-    # Fifth step: format with Black
-    - name: Format with Black
-      run: black .
+    # # Fifth step: format with Black
+    # - name: Format with Black
+    #   run: black .
